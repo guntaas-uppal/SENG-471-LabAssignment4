@@ -4,6 +4,6 @@ gtts
 nltk
 Pillow
 pypdf
-PyAudio
+PyAudioWPatch
 scipy
 speechrecognition
