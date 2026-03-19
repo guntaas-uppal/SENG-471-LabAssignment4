@@ -7,3 +7,4 @@ pypdf
 PyAudioWPatch
 scipy
 speechrecognition
+ipython
